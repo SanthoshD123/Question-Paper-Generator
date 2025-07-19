@@ -186,30 +186,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **LLaMA AI** for intelligent question generation capabilities
 - **Open Source Community** for inspiration and tools
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/question-paper-generator/issues) page
-2. Create a new issue with detailed description
-3. Join our community discussions
-
-## 🗺️ Roadmap
-
-### Upcoming Features
-- [ ] Multi-language support
-- [ ] Advanced question types (MCQ, Fill-in-blanks)
-- [ ] PDF export functionality
-- [ ] Question difficulty analysis
-- [ ] Batch paper generation
-- [ ] Integration with LMS platforms
-
-### Long-term Goals
-- [ ] Machine learning question recommendation
-- [ ] Plagiarism detection
-- [ ] Advanced analytics dashboard
-- [ ] Mobile application
-- [ ] Cloud storage integration
 
 ---
 
