@@ -175,10 +175,6 @@ We welcome contributions! Here's how you can help:
 - Update documentation as needed
 - Ensure responsive design compatibility
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Bootstrap Team** for the excellent CSS framework
